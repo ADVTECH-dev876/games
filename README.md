@@ -1,5 +1,5 @@
 
-# Java Console Games
+# Java script Console Games
 
 This repository contains multiple **Java console-based games**, created to practice programming logic, loops, arrays, and Object-Oriented Programming (OOP) in Java.  
 
